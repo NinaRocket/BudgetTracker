@@ -4,7 +4,7 @@ Welcome to Budget Tracker, the online/offline tracker for your expenses and depo
 
 When you go to your home page in the browser you will be presented with this screen:
 
-![budgettracker](Develop/public/images/Home.png)
+![budgettracker](/Develop/public/images/Home.png)
 
 
 Now let's enter the first transaction. You just received your first paycheck of $750. Notice that when it is entered, the date is also generated (today's date). 
