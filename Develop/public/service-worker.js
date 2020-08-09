@@ -1,4 +1,4 @@
-const FILES_TO_CACHE = ["/", "/index.html", "index.js", "/dist/index.bundle.js"];
+const FILES_TO_CACHE = ["/", "/index.html", "index.js", "/dist/index.bundle.js", "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"];
 
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
