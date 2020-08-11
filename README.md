@@ -13,7 +13,7 @@ Now let's enter the first transaction. You just received your first paycheck of 
 
 Now, let's subtract our groceries of $150
 
-![expense](/public/images/expense.png)
+![expense](/Develop/public/images/expense.png)
 
 Oh no! You're on the plane with no current wifi and you realized you forgot to log the plane ticket you just purchased! It's okay, our indexedDB feature will allow you to log it- you'll see it in pending and when we return online and refresh, you will see the transaction appear in the cache storage:
 
@@ -47,4 +47,4 @@ Lighthouse mobile report:
 
  [Deployed application](https://shielded-fjord-94976.herokuapp.com/)
 
- Thank you.
+ 
