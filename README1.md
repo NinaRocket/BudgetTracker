@@ -4,32 +4,32 @@ Welcome to Budget Tracker, the online/offline tracker for your expenses and depo
 
 When you go to your home page in the browser you will be presented with this screen:
 
-![budgettracker](/Develop/public/images/Home.png)
+![budgettracker](/public/images/Home.png)
 
 
 Now let's enter the first transaction. You just received your first paycheck of $750. Notice that when it is entered, the date is also generated (today's date). 
 
-![transaction](/Develop/public/images/inittransaction.png)
+![transaction](/public/images/inittransaction.png)
 
 Now, let's subtract our groceries of $150
 
-![expense](/Develop/public/images/expense.png)
+![expense](/public/images/expense.png)
 
 Oh no! You're on the plane with no current wifi and you realized you forgot to log the plane ticket you just purchased! It's okay, our indexedDB feature will allow you to log it- you'll see it in pending and when we return online and refresh, you will see the transaction appear in the cache storage:
 
-![offline](/Develop/public/images/offline.gif)
+![offline](/public/images/offline.gif)
 
 Ok, but what about that PWA I mentioned? In your chrome browser, look for a circle with a plus sign inside, click that and download to your chrome applications. 
  
  When you want to open it, click the arrow in the box and select your PWA you'd like to open:
 
- ![pwa](/Develop/public/images/clickme.png)
+ ![pwa](/public/images/clickme.png)
 
  The application will open and ready for offline use, let's log that $500 bonus you received:
 
-  ![pwa](/Develop/public/images/pwa.gif)
+  ![pwa](/public/images/pwa.gif)
 
-   ![pwa](/Develop/public/images/pwa.jpg)
+   ![pwa](/public/images/pwa.jpg)
 
 
 Great! This application utilized the following technologies: 
@@ -41,7 +41,7 @@ Great! This application utilized the following technologies:
 
 Lighthouse mobile report:
 
-![lighthouse](/Develop/public/images/lighthouse.jpg)
+![lighthouse](/public/images/lighthouse.jpg)
 
  [GitHub repository](https://github.com/NinaRocket/BudgetTracker)
 
