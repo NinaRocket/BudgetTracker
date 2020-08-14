@@ -9,7 +9,8 @@
     "start": "node server.js",
     "lite-server": "lite-server",
     "webpack": "webpack",
-    "prestart": "npm run webpack"
+    "prestart": "npm run webpack",
+    "heroku-postbuild": "webpack -p"
   },
   "repository": {
     "type": "git",
