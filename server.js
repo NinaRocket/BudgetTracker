@@ -2,6 +2,7 @@ const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
+require('dotenv').config();
 
 const PORT = process.env.PORT || 5000;
 
@@ -15,7 +16,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-//TODO: add logic for local and production 
+//TODO: add logic for local and production in future
 // mongoose.connect("mongodb://localhost/budget", {
 //   useNewUrlParser: true,
 //   useFindAndModify: false,
