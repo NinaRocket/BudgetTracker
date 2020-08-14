@@ -45,6 +45,6 @@ Lighthouse mobile report:
 
  [GitHub repository](https://github.com/NinaRocket/BudgetTracker)
 
- [Deployed application](https://shielded-fjord-94976.herokuapp.com/)
+ [Deployed application](https://whispering-woodland-53364.herokuapp.com/)
 
  
